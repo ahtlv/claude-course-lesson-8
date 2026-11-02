@@ -59,4 +59,4 @@
 туда придут следующие.
 
 Если курс вам что-то дал, напишите об этом на странице курса:
-[belhard.academy/claudecode](https://belhard.academy/claudecode).
+[форма отзыва](https://docs.google.com/forms/d/e/1FAIpQLScEnkOOOkka_Qs5V4l3yjl--3vMWRvlFntNAtgSoQwA91vGkw/viewform).
